@@ -1,5 +1,5 @@
-# Atliq Hardware Data Analytics in Excel 📊🖱️
-Welcome to my first Excel project in Data Analysis on Atliq Hardware! This repository showcases the work I’ve completed to analyze sales and financial data for Atliq Hardware, a leading company in the electronic hardware industry. The goal of this project was to generate insightful reports that can help in making informed business decisions to boost sales, improve profit margins, and align financial planning with strategic goals.
+# AtliQ Hardware Data Analytics in Excel 📊🖱️
+Welcome to my first Excel project in Data Analysis for Atliq Hardware! This repository showcases the work I’ve completed to analyze sales and financial data for Atliq Hardware, a leading company in the electronic hardware industry. The goal of this project was to generate insightful reports that can help in making informed business decisions to boost sales, improve profit margins, and align financial planning with strategic goals.
 
 
 ## Project Overview 🚀
@@ -59,45 +59,50 @@ Ensured that the data was accurate, complete, and ready for analysis.
 
 EDA involved exploring the sales data to answer key questions for the following reports: 
 
-### 📈 Sales Report:
+### 📈 1. Sales Report:
  -  Create a _[Customer Performance Report](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the net sales of individual customers for the year 2019- 2021 and as well as a comparison of year 2021 and 2020.
  -  Conduct a comprehensive comparison between _[market (countries) performance and sales target](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Market%20Performance%20vs%20Target%20Report.pdf)_ for 2019-2021.
+
+**Additional Requests:**
  -  Find the top _[10 products based on the percentage increase](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%2010%20Products.pdf)_ in their net sales from 2020 to 2021?
  -  Generate a _["Division"](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Division%20Level%20Report.pdf)_ report to present the net sales data for 2020 and 2021, along with the growth percentage.
  -  Create a report that ranks the _[top 5 and bottom 5 products](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%20%26%20Bottom%205%20Products.pdf)_ in terms of quantity sold.
  -  What are the _[new products](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/New%20Products%202021.pdf)_ that AtliQ began selling in 2021?
  -  What are the _[top 5 countries](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%205%20Country%202021.pdf)_ in terms of net sales in 2021?
 
-### 🏦 Finance Report:
+### 🏦 2. Finance Report:
  -  Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Months%20.pdf)_
  -  Create a Profit and Loss (P&L) report by _[Markets](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Markets.pdf)_
  -  Create a _[GM% by Quarters](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/GM%25%20by%20Quarters%20(sub%20zone).pdf)_ report in the sub zone division for each of the years from 2019-2021.
 
 ## Data Analysis 📶
 
+Some interesting Excel features I worked with:
 
-### 📈 Sales Report Creation
+### 📈 1. Sales Report Creation
 ---
 
 **Customer Performance Report**
 - Developed pivot tables to visualize sales data and provide insights.
 - Applied `CALCULATE()` to filter Net Sales for year 2019, 2020, 2021. With that, used `DIVIDE()` to get '21 vs 20' column.
 - Once all measures were created, I formatted numbers to _millions with one decimal place_ using `0.0,,"M"` for easy readability.
-- Added text and color formatting using **Conditional Formatting** to highlight data, identify trends and improve data readability.
+- Added text and color formatting using **Conditional Formatting & Color Bars** to highlight data, identify trends and improve data readability.
 
 
 **Market Performance vs Target Report**
 - Added Target Data to my existing Data Model
+- Created new measures `2021 - Target` & `%` and applied same number formatting to display numbers in _millions with one decimal place_.
+- Applied **3-Color-Scale Formatting**, where strongest color represeted the minimum value (our values were all negative).
 - 
 
-With the above two reports, I created further reports that helped me answer the business queries in the EDA section above:
+With the above two reports, I generated further reports that helped me answer the business queries listed in the EDA section above:
 1. [Top 10 Products 20 vs 21](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%2010%20Products.pdf)
 2. [Division Level Report](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Division%20Level%20Report.pdf)
 3. [Top & Bottom 5 Products By QTY](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%20%26%20Bottom%205%20Products.pdf)
 4. [New Products Sold 2021](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/New%20Products%202021.pdf)
 5. [Top 5 Countries by Net Sales 2021](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%205%20Country%202021.pdf)
 
-### 📊 Financial Report Creation
+### 📊 2. Financial Report Creation
 ---
 
  - Generated P&L (profit and loss) reports to assess the financial performance of AtliQ Hardware over year, month, and markets.
@@ -123,7 +128,7 @@ Based on the analysis, I recommend the following actions:
 
 
 ## My Learnings 🧑‍🎓
-This Excel project enabled me to , I gained both technical and soft skills. Here is a quick breakdown of what I learned:
+This Excel project enabled me to gain both technical and soft skills. Here is a quick breakdown of what I learned:
 
 ### 🧑‍🔧 Technical Skills:
 - [x]	**Excel Proficiency:** Gained a deeper understanding of Excel, including ETL (Extract, Transform, Load), DAX functions, pivot tables, and data visualization techniques.
