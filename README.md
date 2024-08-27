@@ -13,8 +13,6 @@ The primary objective of this project was to create two critical reports:
   
 These reports were designed to assist stakeholders in making data-driven decisions to optimize business operations.
 
----
-
 ## Table of Contents
 - [Project Overview](#project_overview)
 - [Data Source](#data-source)
@@ -77,12 +75,31 @@ EDA involved exploring the sales data to answer key questions for the following 
 
 ## Data Analysis 📶
 
-### 📈 Sales Report Creation:
-Developed pivot tables to visualize sales data and provide insights.
+
+### 📈 Sales Report Creation
+---
+
+**Customer Performance Report**
+- Developed pivot tables to visualize sales data and provide insights.
+- Applied `CALCULATE()` to filter Net Sales for year 2019, 2020, 2021. With that, used `DIVIDE()` to get '21 vs 20' column.
+- Once all measures were created, I formatted numbers to _millions with one decimal place_ using `0.0,,"M"` for easy readability.
+- Added text and color formatting using **Conditional Formatting** to highlight data, identify trends and improve data readability.
 
 
+**Market Performance vs Target Report**
+- Added Target Data to my existing Data Model
+- 
 
-### 📊 Financial Report Creation: 
+With the above two reports, I created further reports that helped me answer the business queries in the EDA section above:
+1. [Top 10 Products 20 vs 21](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%2010%20Products.pdf)
+2. [Division Level Report](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Division%20Level%20Report.pdf)
+3. [Top & Bottom 5 Products By QTY](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%20%26%20Bottom%205%20Products.pdf)
+4. [New Products Sold 2021](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/New%20Products%202021.pdf)
+5. [Top 5 Countries by Net Sales 2021](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%205%20Country%202021.pdf)
+
+### 📊 Financial Report Creation
+---
+
  - Generated P&L (profit and loss) reports to assess the financial performance of AtliQ Hardware over year, month, and markets.
  - Used critical metrics such as COGS, Gross Margin, GM% to evaluate AtliQ’s financial performance, profitability, and pricing tactics.
 
@@ -106,6 +123,7 @@ Based on the analysis, I recommend the following actions:
 
 
 ## My Learnings 🧑‍🎓
+This Excel project enabled me to , I gained both technical and soft skills. Here is a quick breakdown of what I learned:
 
 ### 🧑‍🔧 Technical Skills:
 - [x]	**Excel Proficiency:** Gained a deeper understanding of Excel, including ETL (Extract, Transform, Load), DAX functions, pivot tables, and data visualization techniques.
@@ -118,8 +136,8 @@ Based on the analysis, I recommend the following actions:
 - [x]	**Attention to Detail:** Ensured accuracy and precision in data handling and report generation through fine-tuning.
 - [x]	**Problem-Solving Mindset:** Tackled challenges related to data inconsistencies and reporting requirements, breaking down complex problems into smaller solvable chunks.
 - [x]	**Functional Knowledge:** Thorough understanding of Sales & Finance Reports.
-- [x]	**Empathetic Report Creation:** Learned to create user-centric reports that were comprehensive and empathetic to effectively communicate analysis of results.
+- [x]	**Empathetic Report Creation:** Learned to create user-centric reports that are comprehensive and empathetic to effectively communicate analysis of results.
 
 ## Acknowledgements 🙏
 
-A special thanks to Dhaval Patel and Hemanand Vadivel for their guidance through the CodeBasics Data Analysis BootCamp 3.0. This project has been an invaluable learning experience and a key milestone in my data analytics journey!
+A special thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) and [Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) for their guidance through the [CodeBasics Data Analysis BootCamp 3.0](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance). This project has been an invaluable learning experience and a key milestone in my data analytics journey!
