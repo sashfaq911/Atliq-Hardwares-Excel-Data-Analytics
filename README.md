@@ -16,10 +16,10 @@ These reports were designed to assist stakeholders in making data-driven decisio
 ---
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#project_overview)
 - [Data Source](#data-source)
 - [Tools & Techniques](#tools-&-techniques)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Key Findings](#key-findings)
@@ -39,7 +39,7 @@ The data used in this project was provided as part of the project instructions a
  - **Conditional Formatting:** Applied to highlight key data points and trends.
  - **Formulas and Functions:** Leveraged advanced Excel functions such as `SUMIF`, `VLOOKUP`, `IFERROR`, and others to perform complex calculations.
 
-## Data Cleaning/ Preparation 🕵️‍♀️
+## Data Cleaning & Preparation 🕵️‍♀️
 In the initial data preparation phase, I performed the following tasks: 
 
 ### 🧹 Data Cleaning: 
