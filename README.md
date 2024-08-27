@@ -148,3 +148,9 @@ This Excel project enabled me to gain both technical and soft skills. Here is a 
 ## Acknowledgements 🙏
 
 A special thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) and [Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) for their guidance through the [CodeBasics Data Analysis BootCamp 3.0](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance). This project has been an invaluable learning experience and a key milestone in my data analytics journey!
+
+## Support ❤️
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
