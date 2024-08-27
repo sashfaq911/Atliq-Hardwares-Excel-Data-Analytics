@@ -16,7 +16,16 @@ These reports were designed to assist stakeholders in making data-driven decisio
 ---
 
 ## Table of Contents
-
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools & Techniques](#tools-&-techniques)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [My Learnings](#my-learnings)
+- [Acknowledgements](#acknowledgements)
 
 ## Data Source 🔍
 
@@ -101,10 +110,9 @@ Based on the analysis, I recommend the following actions:
 ### 🧑‍🔧 Technical Skills:
 - [x]	**Excel Proficiency:** Gained a deeper understanding of Excel, including ETL (Extract, Transform, Load), DAX functions, pivot tables, and data visualization techniques.
 - [x]	**Data Analysis:** Developed the ability to clean, transform, and analyze data to extract meaningful insights.
-- [x]	**Data Modeling:** established 
-- [x]	**Data Cleaning & ETL**
-- [x]	 **Data Modeling:** Connecting Tables Using
-- [x]	**Adding a Date Table Using Power Query**
+- [x] **Data Cleaning & ETL**
+- [x] **Data Modeling:** Connecting Tables Using Power Query, Adding Date Table
+
 
 ### 🙋🏻‍♀️ Soft Skills:
 - [x]	**Attention to Detail:** Ensured accuracy and precision in data handling and report generation through fine-tuning.
