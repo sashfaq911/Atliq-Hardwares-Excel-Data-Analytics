@@ -14,6 +14,7 @@ The primary objective of this project was to create two critical reports:
 These reports were designed to assist stakeholders in making data-driven decisions to optimize business operations.
 
 ## Table of Contents
+
 - [Project Overview](#project_overview)
 - [Data Source](#data-source)
 - [Tools & Techniques](#tools-&-techniques)
@@ -24,6 +25,7 @@ These reports were designed to assist stakeholders in making data-driven decisio
 - [Recommendations](#recommendations)
 - [My Learnings](#my-learnings)
 - [Acknowledgements](#acknowledgements)
+  
 
 ## Data Source 🔍
 
@@ -63,7 +65,7 @@ EDA involved exploring the sales data to answer key questions for the following 
  -  Create a _[Customer Performance Report](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the net sales of individual customers for the year 2019- 2021 and as well as a comparison of year 2021 and 2020.
  -  Conduct a comprehensive comparison between _[market (countries) performance and sales target](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Market%20Performance%20vs%20Target%20Report.pdf)_ for 2019-2021.
 
-**Additional Requests:**
+_**Additional Requests:**_
  -  Find the top _[10 products based on the percentage increase](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%2010%20Products.pdf)_ in their net sales from 2020 to 2021?
  -  Generate a _["Division"](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Division%20Level%20Report.pdf)_ report to present the net sales data for 2020 and 2021, along with the growth percentage.
  -  Create a report that ranks the _[top 5 and bottom 5 products](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%20%26%20Bottom%205%20Products.pdf)_ in terms of quantity sold.
@@ -77,7 +79,7 @@ EDA involved exploring the sales data to answer key questions for the following 
 
 ## Data Analysis 📶
 
-Some interesting Excel features I worked with:
+Some interesting Excel features I worked with while creating the reports:
 
 ### 📈 1. Sales Report Creation
 ---
