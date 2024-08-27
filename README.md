@@ -13,7 +13,7 @@ The primary objective of this project was to create two critical reports:
   
 These reports were designed to assist stakeholders in making data-driven decisions to optimize business operations.
 
-### Sales Report:
+### 📈 Sales Report:
  -  Create a [Customer Performance Report] to show the net sales of individual customers for the year 2019- 2021 and as well as a comparison of year 2021 and 2020.
  -  Conduct a comprehensive comparison between _[market (countries) performance and sales target]_ for 2019-2021.
  -  Find the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
@@ -22,7 +22,7 @@ These reports were designed to assist stakeholders in making data-driven decisio
  -  What are the new products that AtliQ began selling in 2021?
  -  What are the top 5 countries in terms of net sales in 2021?
 
-### Finance Report:
+### 🏦 Finance Report:
  -  Create Profit and Loss (P&L) reports by _[Fiscal Year] & _[Months]
  -  Create a Profit and Loss (P&L) report by _[Markets]
  -  Create a GM% by Quarters report in the sub zone division for each of the years from 2019-2021.
@@ -40,7 +40,7 @@ The data used in this project was provided as part of the project instructions a
  - **Formulas and Functions:** Leveraged advanced Excel functions such as SUMIF, VLOOKUP, IFERROR, and others to perform complex calculations.
 
 
-## Tasks Performed 📊
+## Tasks Performed 👩🏻‍💻
 
 ## Key Findings 🔑
 
