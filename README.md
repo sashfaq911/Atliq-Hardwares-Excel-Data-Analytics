@@ -1,4 +1,4 @@
-# AtliQ Hardware Data Analytics in Excel 📊🖱️
+# AtliQ Hardware Data Analytics in Excel 📊🖱️🖥
 Welcome to my first Excel project in Data Analysis for Atliq Hardware! This repository showcases the work I’ve completed to analyze sales and financial data for Atliq Hardware, a leading company in the electronic hardware industry. The goal of this project was to generate insightful reports that can help in making informed business decisions to boost sales, improve profit margins, and align financial planning with strategic goals.
 
 
@@ -74,7 +74,7 @@ _**Additional Requests:**_
  -  What are the _[top 5 countries](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%205%20Country%202021.pdf)_ in terms of net sales in 2021?
 
 ### 🏦 2. Finance Report:
- -  Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Months%20.pdf)_
+ -  Create Profit and Loss (P&L) report by _[Fiscal Year](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20By%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Months%20.pdf)_
  -  Create a Profit and Loss (P&L) report by _[Markets](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Markets.pdf)_
  -  Create a _[GM% by Quarters](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/GM%25%20by%20Quarters%20(sub%20zone).pdf)_ report in the sub zone division for each of the years from 2019-2021.
 
@@ -96,7 +96,7 @@ Some interesting Excel features I worked with while creating the reports:
 - Added Target Data to my existing Data Model
 - Created new measures `2021 - Target` & `%` and applied same number formatting to display numbers in _millions with one decimal place_.
 - Applied **3-Color-Scale Formatting**, where strongest color represeted the minimum value (our values were all negative).
-- 
+
 
 With the above two reports, I generated further reports that helped me answer the business queries listed in the EDA section above:
 1. [Top 10 Products 20 vs 21](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Sales%20Analytics/Top%2010%20Products.pdf)
@@ -109,7 +109,7 @@ With the above two reports, I generated further reports that helped me answer th
 ---
 
  - Generated P&L (profit and loss) reports to assess the financial performance of AtliQ Hardware over year, month, and markets.
- - Determined AtliQ's Fiscal Year (12-month period from September 1st to August 31st) to compute Net Sales correctly.
+ - Determined AtliQ's _Fiscal Year_ (12-month period from September 1st to August 31st) to compute Net Sales correctly.
  - Used critical metrics such as COGS, Gross Margin, GM% to evaluate AtliQ’s financial performance, profitability, and pricing tactics over the past three years and perfromed a comparable '21 vs 20'.
 
 **P & L By Fiscal Year**
@@ -145,17 +145,17 @@ Based on the analysis, I recommend the following actions:
 This Excel project enabled me to gain both technical and soft skills. Here is a quick breakdown of what I learned:
 
 ### 🧑‍🔧 Technical Skills:
-- [x]	**Excel Proficiency:** Gained a deeper understanding of Excel, including ETL (Extract, Transform, Load), DAX functions, pivot tables, and data visualization techniques.
-- [x]	**Data Analysis:** Developed the ability to clean, transform, and analyze data to extract meaningful insights.
-- [x] **Data Cleaning & ETL**
-- [x] **Data Modeling:** Connecting Tables Using Power Query, Adding Date Table
+**Excel Proficiency -** Gained a deeper understanding of Excel, including ETL (Extract, Transform, Load), DAX functions, pivot tables, and data visualization techniques.
 
+- [x]	**Data Analysis:** Developed the ability to clean, transform, and analyze data to extract meaningful insights.
+- [x] **Data Modeling:** Connecting Tables Using Star Schema methodology in Power Query, Adding Date Table, Fiscal Year Columns
+- [x]	**Empathetic Report Creation:** Learned to create user-centric reports that are comprehensive and empathetic to effectively communicate analysis of results.
 
 ### 🙋🏻‍♀️ Soft Skills:
 - [x]	**Attention to Detail:** Ensured accuracy and precision in data handling and report generation through fine-tuning.
 - [x]	**Problem-Solving Mindset:** Tackled challenges related to data inconsistencies and reporting requirements, breaking down complex problems into smaller solvable chunks.
 - [x]	**Functional Knowledge:** Thorough understanding of Sales & Finance Reports.
-- [x]	**Empathetic Report Creation:** Learned to create user-centric reports that are comprehensive and empathetic to effectively communicate analysis of results.
+
 
 ## Acknowledgements 🙏 <a name="acknowledgements"></a>
 
