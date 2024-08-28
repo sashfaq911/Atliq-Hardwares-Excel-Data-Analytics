@@ -2,7 +2,7 @@
 Welcome to my first Excel project in Data Analysis for Atliq Hardware! This repository showcases the work I’ve completed to analyze sales and financial data for Atliq Hardware, a leading company in the electronic hardware industry. The goal of this project was to generate insightful reports that can help in making informed business decisions to boost sales, improve profit margins, and align financial planning with strategic goals.
 
 
-## Project Overview 🚀
+## Project Overview 🚀 <a name="overview"></a>
 
 The primary objective of this project was to create two critical reports:
  
@@ -13,33 +13,34 @@ The primary objective of this project was to create two critical reports:
   
 These reports were designed to assist stakeholders in making data-driven decisions to optimize business operations.
 
+
 ## Table of Contents
 
-- [Project Overview](#project_overview)
-- [Data Source](#data-source)
-- [Tools & Techniques](#tools-&-techniques)
-- [Data Cleaning & Preparation](#data-cleaning-&-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Key Findings](#key-findings)
+- [Project Overview](#overview)
+- [Data Source](#data)
+- [Tools & Techniques](#tools)
+- [Data Cleaning & Preparation](#datacleaning)
+- [Exploratory Data Analysis](#eda)
+- [Data Analysis](#analysis)
+- [Key Findings](#findings)
 - [Recommendations](#recommendations)
-- [My Learnings](#my-learnings)
+- [My Learnings](#learnings)
 - [Acknowledgements](#acknowledgements)
   
 
-## Data Source 🔍
+## Data Source 🔍 <a name="data"></a>
 
 The data used in this project was provided as part of the project instructions and included detailed sales and financial information for AtliQ Hardware. The dataset included over half a million records of sales data and was structured in multiple Excel sheets, encompassing various aspects of the business operations.
 
 
-## Tools & Techniques 🛠️
+## Tools & Techniques 🛠️ <a name="tools"></a>
 
  - **Microsoft Excel:** The primary tool used for data analysis, visualization, and reporting.
  - **Pivot Tables & Power Query:** Utilized for summarizing and visualizing data.
  - **Conditional Formatting:** Applied to highlight key data points and trends.
  - **Formulas and Functions:** Leveraged advanced Excel functions such as `SUMIF`, `VLOOKUP`, `IFERROR`, and others to perform complex calculations.
 
-## Data Cleaning & Preparation 🕵️‍♀️
+## Data Cleaning & Preparation 🕵️‍♀️ <a name="datacleaning"></a>
 In the initial data preparation phase, I performed the following tasks: 
 
 ### 🧹 Data Cleaning: 
@@ -57,7 +58,7 @@ Ensured that the data was accurate, complete, and ready for analysis.
  - Created new columns using DAX measures for calculated fields.
 
 
-## Exploratory Data Analysis (EDA) 👩🏻‍💻
+## Exploratory Data Analysis (EDA) 👩🏻‍💻 <a name="eda"></a>
 
 EDA involved exploring the sales data to answer key questions for the following reports: 
 
@@ -77,7 +78,7 @@ _**Additional Requests:**_
  -  Create a Profit and Loss (P&L) report by _[Markets](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/P%26L%20Statement%20by%20Markets.pdf)_
  -  Create a _[GM% by Quarters](https://github.com/sashfaq911/Atliq-Hardwares-Excel-Data-Analytics/blob/Projects/Finance%20Analytics/GM%25%20by%20Quarters%20(sub%20zone).pdf)_ report in the sub zone division for each of the years from 2019-2021.
 
-## Data Analysis 📶
+## Data Analysis 📶 <a name="analysis"></a>
 
 Some interesting Excel features I worked with while creating the reports:
 
@@ -111,7 +112,7 @@ With the above two reports, I generated further reports that helped me answer th
  - Used critical metrics such as COGS, Gross Margin, GM% to evaluate AtliQ’s financial performance, profitability, and pricing tactics.
 
 
-## Key Findings 🔑
+## Key Findings 🔑 <a name="findings"></a>
 The analysis results are summarized as follows: 
 
 1. **Top Product Category**: 💻 The 'Laptop' category leads in sales and revenue, while 'Accessories' deliver the highest profit margins despite lower sales.
@@ -119,7 +120,7 @@ The analysis results are summarized as follows:
 3. **Customer Insights**: 🏢 Corporate clients generate the most revenue, with higher order volumes and repeat purchases.
 4. **Seasonal Trends**: 🎄 Sales spike in November and December, indicating strong holiday seasonality.
 
-## Recommendations 💡
+## Recommendations 💡 <a name="recommendations"></a>
 Based on the analysis, I recommend the following actions: 
 
 1. **Boost Marketing for Laptops**: 📈 Invest in targeted campaigns and cross-sell accessories to increase revenue and profit.
@@ -129,7 +130,7 @@ Based on the analysis, I recommend the following actions:
 5. **Maximize Accessory Sales**: 💡 Promote accessories through bundling and special offers to enhance profitability.
 
 
-## My Learnings 🧑‍🎓
+## My Learnings 🧑‍🎓 <a name="learnings"></a>
 This Excel project enabled me to gain both technical and soft skills. Here is a quick breakdown of what I learned:
 
 ### 🧑‍🔧 Technical Skills:
@@ -145,12 +146,12 @@ This Excel project enabled me to gain both technical and soft skills. Here is a 
 - [x]	**Functional Knowledge:** Thorough understanding of Sales & Finance Reports.
 - [x]	**Empathetic Report Creation:** Learned to create user-centric reports that are comprehensive and empathetic to effectively communicate analysis of results.
 
-## Acknowledgements 🙏
+## Acknowledgements 🙏 <a name="acknowledgements"></a>
 
 A special thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) and [Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) for their guidance through the [CodeBasics Data Analysis BootCamp 3.0](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance). This project has been an invaluable learning experience and a key milestone in my data analytics journey!
 
-## Support ❤️
+## Support ❤️ <a name="support"></a>
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and suggestions are welcome!
 
 Give a ⭐️ if you like this project!
