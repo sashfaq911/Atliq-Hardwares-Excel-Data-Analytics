@@ -109,7 +109,8 @@ With the above two reports, I generated further reports that helped me answer th
 ---
 
  - Generated P&L (profit and loss) reports to assess the financial performance of AtliQ Hardware over year, month, and markets.
- - Used critical metrics such as COGS, Gross Margin, GM% to evaluate AtliQ’s financial performance, profitability, and pricing tactics.
+ - Determined AtliQ's Fiscal Year (12-month period from September 1st to August 31st) to compute Net Sales correctly.
+ - Used critical metrics such as COGS, Gross Margin, GM% to evaluate AtliQ’s financial performance, profitability, and pricing tactics over the past three years and perfromed a comparable '21 vs 20'.
 
 **P & L By Fiscal Year**
 
