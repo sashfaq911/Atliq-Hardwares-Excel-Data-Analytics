@@ -126,19 +126,45 @@ With the above two reports, I generated further reports that helped me answer th
 ## Key Findings 🔑 <a name="findings"></a>
 The analysis results are summarized as follows: 
 
-1. **Top Product Category**: 💻 The 'Laptop' category leads in sales and revenue, while 'Accessories' deliver the highest profit margins despite lower sales.
-2. **Regional Performance**: 🌍 The North region outperforms others in sales, while the South region lags significantly.
-3. **Customer Insights**: 🏢 Corporate clients generate the most revenue, with higher order volumes and repeat purchases.
-4. **Seasonal Trends**: 🎄 Sales spike in November and December, indicating strong holiday seasonality.
+1. 📈 **Sales Growth**: AtliQ Hardwares experienced significant growth from 2020 to 2021, with net sales increasing by 204.5% (from $196.7M to $598.9M).
+
+2. 🌎 **Top Performing Markets**: 
+   - India ($161.3M)
+   - USA ($87.8M)
+   - South Korea ($49.0M)
+
+3. 🖥️ **Product Performance**: 
+   - Top product: AQ Electron 4 3600 Desktop Processor (541.3% growth from 2020 to 2021)
+   - New products introduced in 2021 generated $176.2M in sales
+
+4. 🛒 **Customer Insights**: 
+   - Amazon was the top customer in 2021 ($82.1M)
+   - Acclaimed Stores showed the highest growth (378.1%)
+
+5. 💰 **Gross Margin**: Overall GM% decreased slightly from 37.3% in 2020 to 36.4% in 2021
+
+6. 🌏 **Regional Performance**: 
+   - ANZ (Australia/New Zealand) consistently maintained the highest GM% across 2019-2021
+   - India showed lower but stable GM% around 32%
 
 ## Recommendations 💡 <a name="recommendations"></a>
 Based on the analysis, I recommend the following actions: 
 
-1. **Boost Marketing for Laptops**: 📈 Invest in targeted campaigns and cross-sell accessories to increase revenue and profit.
-2. **Focus on Corporate Clients**: 🤝 Develop tailored programs to strengthen relationships and encourage bulk purchases.
-3. **Improve South Region Sales**: 🚀 Increase marketing efforts and offer region-specific promotions to grow this market.
-4. **Leverage Holiday Sales**: 🎁 Plan early campaigns and promotions to capitalize on seasonal sales spikes.
-5. **Maximize Accessory Sales**: 💡 Promote accessories through bundling and special offers to enhance profitability.
+1. 🚀 **Expand in High-Growth Markets**: Focus on expanding operations in markets like India, USA, and South Korea, which show strong sales performance.
+
+2. 📊 **Product Strategy**: 
+   - Continue investing in successful product lines like the AQ Electron series
+   - Maintain focus on new product development, given the success of 2021 launches
+
+3. 🤝 **Customer Relationships**: 
+   - Strengthen partnerships with top-performing customers like Amazon
+   - Analyze and replicate strategies used with high-growth customers like Acclaimed Stores
+
+4. 📈 **Profit Margin Improvement**: 
+   - Investigate reasons for the slight decrease in overall GM% and implement strategies to improve it
+   - Learn from the ANZ region's practices to improve GM% in other regions, especially India
+
+5. ⛓️ **Supply Chain Optimization**: Given the significant sales growth, ensure the supply chain can keep up with increased demand to maintain customer satisfaction
 
 
 ## My Learnings 🧑‍🎓 <a name="learnings"></a>
