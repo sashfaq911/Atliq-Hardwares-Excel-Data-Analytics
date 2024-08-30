@@ -1,4 +1,4 @@
-# AtliQ Hardware Data Analytics in Excel 📊🖱️🖥
+# AtliQ Hardwares Data Analytics in Excel 📊🖱️🖥
 ![Header](./Atliq-header-image-zoom.png)
 
 
