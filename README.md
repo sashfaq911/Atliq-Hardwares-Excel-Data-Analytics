@@ -1,5 +1,5 @@
 # AtliQ Hardware Data Analytics in Excel 📊🖱️🖥
-![Header](./Atliq-header-image.png)
+![Header](./atliq-header-image1.png)
 
 
 Welcome to my first Excel project in Data Analysis for Atliq Hardware! This repository showcases the work I’ve completed to analyze sales and financial data for Atliq Hardware, a leading company in the electronic hardware industry. The goal of this project was to generate insightful reports that can help in making informed business decisions to boost sales, improve profit margins, and align financial planning with strategic goals.
